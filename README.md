@@ -36,17 +36,17 @@ This project demonstrates the complete analytics workflow, including data extrac
 
 # 📂 Project Structure
 
-Customer-Churn-Analysis
+```text
+customer-churn-analysis/
 │
-├── data
-│   ├── raw
+├── data/
+│   ├── raw/
 │   │   ├── customer_churn_data_raw.xlsx
 │   │   └── customer_churn.db
-│   │
-│   └── processed
+│   └── processed/
 │       └── cleaned_customer_churn.csv
 │
-├── image
+├── images/
 │   ├── customer_churn_distribution.png
 │   ├── gender_distribution.png
 │   ├── subscription_type_distribution.png
@@ -59,21 +59,22 @@ Customer-Churn-Analysis
 │   ├── customers_by_state.png
 │   └── correlation_heatmap.png
 │
-├── notebook
+├── notebooks/
 │   └── customer_churn_analysis.ipynb
 │
-├── sql
+├── sql/
 │   └── customer_churn_queries.sql
 │
-├── reports
+├── reports/
 │   └── customer_churn_analysis_report.md
 │
-├── presentation
-│   └── customer_churn_presentation.pptx
+├── presentations/
+│   └── customer_churn_analysis.pptx
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 # 📊 Dataset Information
 
