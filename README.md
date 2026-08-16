@@ -34,48 +34,6 @@ This project demonstrates the complete analytics workflow, including data extrac
 - Git & GitHub
 ---
 
-# 📂 Project Structure
-
-```text
-customer-churn-analysis/
-│
-├── data/
-│   ├── raw/
-│   │   ├── customer_churn_data_raw.xlsx
-│   │   └── customer_churn.db
-│   └── processed/
-│       └── cleaned_customer_churn.csv
-│
-├── images/
-│   ├── customer_churn_distribution.png
-│   ├── gender_distribution.png
-│   ├── subscription_type_distribution.png
-│   ├── churn_by_gender.png
-│   ├── churn_by_plan_type.png
-│   ├── monthly_charges_distribution.png
-│   ├── customer_age_distribution.png
-│   ├── cltv_distribution.png
-│   ├── csat_category_distribution.png
-│   ├── customers_by_state.png
-│   └── correlation_heatmap.png
-│
-├── notebooks/
-│   └── customer_churn_analysis.ipynb
-│
-├── sql/
-│   └── customer_churn_queries.sql
-│
-├── reports/
-│   └── customer_churn_analysis_report.md
-│
-├── presentations/
-│   └── customer_churn_analysis.pptx
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
 # 📊 Dataset Information
 
 The project uses three integrated datasets stored in SQLite.
