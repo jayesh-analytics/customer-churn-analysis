@@ -193,40 +193,6 @@ Based on the SQL analysis and exploratory data analysis (EDA), the following key
 - Use predictive analytics to identify customers likely to churn.
 ---
 
-# 🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/jayesh-analytics/customer-churn-analysis
-```
-
-Navigate to the project directory:
-
-```bash
-cd customer-churn-analysis
-```
-
-Install required Python libraries:
-
-```bash
-pip install -r requirements.txt
-```
-
-Launch Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-notebook/customer_churn_analysis.ipynb
-```
-
-Run all cells to reproduce the analysis.
-
 # 📸 Project Outputs
 
 The project generates the following outputs:
