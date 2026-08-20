@@ -215,10 +215,6 @@ Possible future enhancements include:
 - Streamlit Web Application
 - Real-time Customer Churn Monitoring
 
-**Jayesh suthar**
-
-Data Analytics Enthusiast
-
 Skills:
 
 - Python
@@ -232,5 +228,9 @@ Skills:
 - Power BI
 - Git
 - GitHub
+
+## Built By Jayesh
+**Data Analyst**
+[LinkedIn](https://www.linkedin.com/in/jayesh-s-5566b9220/) · [Portfolio](https://jayesh-analytics.github.io/)
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
