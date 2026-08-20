@@ -215,20 +215,6 @@ Possible future enhancements include:
 - Streamlit Web Application
 - Real-time Customer Churn Monitoring
 
-Skills:
-
-- Python
-- SQL
-- SQLite
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Excel
-- Power BI
-- Git
-- GitHub
-
 ## Built By Jayesh
 **Data Analyst**
 [LinkedIn](https://www.linkedin.com/in/jayesh-s-5566b9220/) · [Portfolio](https://jayesh-analytics.github.io/)
